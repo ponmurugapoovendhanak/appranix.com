@@ -1,2 +1,3 @@
 # appranix.com
-first repo in appranix
+first repo in appranix.
+i am learning git
